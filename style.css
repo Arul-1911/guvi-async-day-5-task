@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 6cm;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 80px;
+    
+}
+body {
+    background-image: url("https://wallpapercave.com/wp/z3T0krW.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+   
+}
+
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  .quotebox{
+    color: #fff;
+    padding: 2rem;
+    margin-top: 1rem;
+  }
+
